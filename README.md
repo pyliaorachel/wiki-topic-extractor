@@ -13,6 +13,8 @@ $ pip install -r requirements.txt
 Extract:
 
 ```bash
+$ mkdir data
+
 $ python run.py TOPIC --lang LANG
 # e.g.
 $ python run.py Computer_Science --lang zh
